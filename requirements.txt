@@ -1,0 +1,25 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+python-dotenv
+unstructured
+python-docx
+pandas
+openpyxl
+jq
+matplotlib
+## Embeddings
+langchain-huggingface
+sentence-transformers
+langchain-experimental
+rank_bm25
+wikipedia
+langgraph
+
+
+

@@ -1,0 +1,4 @@
+Retrieval-Augmented Generation (RAG) is a technique 
+that combines information retrieval with generative models. 
+It allows language models to access external knowledge sources 
+to provide more accurate and up-to-date answers.

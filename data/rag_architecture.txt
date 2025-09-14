@@ -1,0 +1,4 @@
+The RAG architecture typically consists of two parts: 
+a retriever and a generator. The retriever finds relevant documents 
+from a knowledge base, while the generator (often a large language model) 
+uses those documents to produce responses.

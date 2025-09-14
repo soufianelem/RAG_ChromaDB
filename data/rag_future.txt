@@ -1,0 +1,3 @@
+The future of RAG research focuses on improving retriever models,
+combining structured and unstructured data, and optimizing efficiency
+for real-world enterprise applications.

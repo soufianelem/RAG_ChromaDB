@@ -1,0 +1,3 @@
+RAG can be applied in many areas such as 
+question answering, chatbots, document summarization, and enterprise search. 
+It improves reliability by grounding responses in factual documents.

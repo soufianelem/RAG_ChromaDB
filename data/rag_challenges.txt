@@ -1,0 +1,3 @@
+Some challenges of RAG include retrieving irrelevant documents,
+managing large-scale knowledge bases, and ensuring that the generator
+uses the retrieved documents correctly without introducing hallucinations.

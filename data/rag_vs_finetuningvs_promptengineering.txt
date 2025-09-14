@@ -1,0 +1,20 @@
+RAG, fine-tuning, and prompt engineering differ in how they improve 
+language models.
+
+Fine-tuning changes the model’s weights by training it on additional 
+domain-specific data. This makes the model more accurate for that domain, 
+but it is costly and needs retraining when knowledge changes.
+
+RAG (Retrieval-Augmented Generation) does not change the model itself. 
+Instead, it connects the model to an external retriever that provides 
+relevant documents. The model then generates answers based on both its 
+own knowledge and the retrieved context. This keeps results more current 
+and fact-based.
+
+Prompt engineering does not retrain the model or add external data. 
+It only improves how we ask questions by designing effective prompts. 
+This method is simple and fast but limited, since it does not add 
+new knowledge.
+
+In short: fine-tuning embeds knowledge, RAG retrieves knowledge, 
+and prompt engineering shapes the way knowledge is used.
